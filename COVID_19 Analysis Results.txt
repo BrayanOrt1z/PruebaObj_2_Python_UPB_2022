@@ -1,0 +1,50 @@
+"Analysis Result"
+
+This file contains the results of the statistical analysis of COVID_19. The criteria taken into account are as follows: Confirmed cases per month, number of deaths per month, number of people recovered per month and number of active cases in each month. The same criteria were also taken into account but by regions at the global level (regions that were assigned by the World Health Organization).
+
+                       "COVID_19 Results Per Month"
+
+              "Total Cases COVID_19"
+ Total Confirmed Cases        	  828508482
+ Total Number Of Deaths       	  43384903
+ Total Number Of Recovered    	  388408229
+Total Number Of Active Cases  	  396715350
+
+                     "COVID_19 Averages"
+Average Confirmed Cases Per Month    	  118358354.57142857
+     Average Deaths Per Month        	  6197843.285714285
+   Average Recoveries Per Month      	  55486889.85714286
+  Average Active Cases Per Month     	  56673621.428571425
+
+              "COVID_19 Standard Deviations"
+Deviation Confirmed Cases Per Month     	  141145313.57928267
+    Deviation Deaths Per Month          	  6659867.854664253
+   Deviation Recovered Per Month        	  76407793.36481752
+  Deviation Active Cases Per Month      	 59881596.278209
+
+                    "COVID_19 Results Per WHO Region "
+
+      "Total Cases COVID_19 (WHO REGION)"
+   Total Confirmed Cases        	  828508482
+  Total Number Of Deaths        	  43384903
+ Total Number Of Recovered      	  388408229
+Total Number Of Active Cases    	  396715350
+
+                           "COVID_19 Averages"
+Average Confirmed Cases Per WHO Region    	  138084747.0
+     Average Deaths Per WHO Region        	  7230817.166666667
+   Average Recoveries Per WHO Region      	  64734704.833333336
+ Average Active Cases Per WHO Region      	   66119225.0
+
+                    "COVID_19 Standard Deviations"
+Deviation Confirmed Cases Per WHO Region    	  154303362.09211785
+    Deviation Deaths Per WHO Region         	  9373771.031303003
+   Deviation Recovered Per WHO Region       	  60659430.94236634
+  Deviation Active Cases Per WHO Region     	  86461816.60470434
+
+Based on the information provided by the graphs and tables above, we can conclude the following:
+
+The growth of COVID_19 was exponentially which tells us that the transmission of the virus was very fast and besides that, any person of any age can easily contract it. We can also notice that the data are scattered. This shows that there were days, weeks or even months in which the level of affection was quite critical, which demonstrates that Covid_19 is a virus with pandemic potential and quite deadly for the population. In addition, we can also see that in some regions of the world, COVID_19 had a greater impact. Examples of this are the regions of America and Europe. The causes of these regions where the virus had a greater impact may be due to the fact that the preventive sanitary measures were not rigorous enough or it was due to negligence and lack of awareness of the population, since social awareness is fundamental because one has to know that preventive measures are not only taken to take care of oneself, but also to protect others.
+
+Author: Brayan Andres Ortiz Gonzalez.
+Date created: 13/09/2022
